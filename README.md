@@ -6,5 +6,4 @@ Main Menu
 
 Gameplay
 ----------
-![Uploading image.png…]()
-
+![image](https://github.com/Baguser7/Subserving-Game/assets/125522708/3a0aa3b6-3c5a-4429-8fbd-3361c63ce143)
